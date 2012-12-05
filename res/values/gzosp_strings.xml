@@ -48,5 +48,8 @@
     <string name="lock_directly_show_pin">Directly show PIN entry</string>
     <string name="lock_directly_show_summary">Skip the swipe up to unlock screen when unlocking the device</string>
 
+    <!-- Launch Dev Tools -->
+    <string name="development_tools_title">Development tools</string>
+
 </resources>
 
